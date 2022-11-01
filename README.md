@@ -6,8 +6,6 @@
 [![blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VitoorMaarques)
 
 
-### - Atualmente
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VitorMarquesLima" alt="VitorMarquesLima" /></a> </p>
 
