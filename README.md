@@ -1,4 +1,4 @@
-<h1 align="center"> ## Olá! eu sou o Vitor Marques! ✌</h1>
+<h1 align="center">Olá! eu sou o Vitor Marques! ✌</h1>
 <h2 align="center"> Student Database</h4>
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitoormaarques@gmail.com)
