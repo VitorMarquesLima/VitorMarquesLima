@@ -6,13 +6,16 @@
 [![blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VitoorMaarques)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marques-524413199/)
 
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VitorMarquesLima" alt="VitorMarquesLima" /></a> </p>
 
 ![Vitor Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMarquesLima&show_icons=true&theme=onedark)
 
+# 
+Meu nome é Vitor Marques Lima Godoi e tenho 20 anos. Sou apaixonado por tecnologia e sempre busco maneiras de aprimorar minhas habilidades e conhecimentos. Tenho vasto conhecimento nas linguagens HTML5, CSS3, SQL, Excel e Python. Além disso, tenho experiência em trabalhar com ferramentas como o PostgreSQL, MongoDB e MySQL.
+
+Como desenvolvedor, estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Acredito que a participação em projetos de código aberto é uma ótima maneira de aprimorar habilidades e colaborar com a comunidade.
+
+Meu objetivo é usar meus conhecimentos e habilidades para contribuir para projetos significativos e interessantes, e trabalhar com outros profissionais talentosos para criar soluções inovadoras. Estou ansioso para me envolver na comunidade do GitHub e compartilhar minhas ideias e conhecimentos com outros desenvolvedores.
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
