@@ -2,8 +2,6 @@
 <h2 align="center"> Student Database</h4>
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitoormaarques@gmail.com)
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_marqueslima/)
-[![blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VitoorMaarques)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marques-524413199/)
 
 ##### Meu nome é Vitor Marques Lima Godoi e tenho 20 anos. Sou apaixonado por tecnologia e sempre busco maneiras de aprimorar minhas habilidades e conhecimentos. Tenho  conhecimento nas linguagens HTML5, CSS3, SQL, Excel e Python. Além disso, tenho experiência em trabalhar com ferramentas como o PostgreSQL, MongoDB e MySQL.
