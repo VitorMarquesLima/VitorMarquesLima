@@ -2,7 +2,7 @@
 
 ### Backend Developer | Data Science & Machine Learning Enthusiast
 
-Sou um desenvolvedor de 23 anos apaixonado por transformar dados em decisões inteligentes. Atualmente, foco na criação de sistemas que unem a robustez de bancos de dados relacionais e não-relacionais com o poder preditivo do Machine Learning.
+Sou um desenvolvedor de 23 anos apaixonado por transformar dados em decisões inteligentes. Atualmente, foco na criação de sistemas para automatizações que unem a robustez de bancos de dados relacionais e não-relacionais com o poder de predição de Machine Learning para agregar mais valor a dashbords.
 
 ---
 
