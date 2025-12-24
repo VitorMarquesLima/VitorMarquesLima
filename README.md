@@ -2,7 +2,7 @@
 
 ### Backend Developer | Data Science & Machine Learning Enthusiast
 
-Sou um desenvolvedor de 23 anos focado em **Data Science** e **Backend**. Minha especialidade é construir pontes entre o processamento de dados complexos e soluções práticas, utilizando ferramentas como **Python** e **SQLite**. Recentemente, desenvolvi o **ProStock-AI**, onde apliquei modelos de Random Forest para predição financeira.
+Sou um desenvolvedor de 23 anos apaixonado por transformar dados em decisões inteligentes. Atualmente, foco na criação de sistemas para automatizações que unem a robustez de bancos de dados relacionais e não-relacionais com o poder de predição de Machine Learning para agregar mais valor a insights para empresas.
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
